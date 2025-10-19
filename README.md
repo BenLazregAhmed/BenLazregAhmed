@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed blz | Software Developer
+# 👨‍💻 Ahmed Ben Lazreg | Software Developer | DevOps
 ### 🚀 Building the future, one commit at a time
 
 Hey there! I'm Ahmed, a passionate developer always eager to explore new technologies and contribute to impactful projects. I believe in writing clean, efficient, and scalable code that solves real-world problems. Welcome to my digital workspace!
